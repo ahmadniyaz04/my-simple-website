@@ -2,4 +2,7 @@ div{
    background-color: aqua; 
    font-style: italic;
    padding: 5px;
+   margin: 5px;
+   /* margin color: margin: grid-template-columns: height: ;;; */
+   
 }
